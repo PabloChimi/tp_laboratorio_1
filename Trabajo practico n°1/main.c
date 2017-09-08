@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "funciones.h"
 
+//El TP esta hecho en LINUX.
+
 int main()
 {
 
