@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504568941 source:/home/pablo/Escritorio/progra1/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504569202 /home/pablo/Escritorio/progra1/TP_1_Cascara/funciones.h
+
+1504855713 source:/home/pablo/Escritorio/progra1/Tp1 pruebaB/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504855421 /home/pablo/Escritorio/progra1/Tp1 pruebaB/funciones.h
+
+1504856377 source:/home/pablo/Escritorio/progra1/Tp1 pruebaB/funciones.c
+	<stdio.h>
+	<stdlib.h>
+
