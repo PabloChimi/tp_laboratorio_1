@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1506924171 source:/home/pablo/Escritorio/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1510342776 /home/pablo/Escritorio/TP_2_Cascara/funciones.h
+
+1506923261 source:/home/pablo/Escritorio/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1506325823 /home/pablo/Escritorio/TP_2_Cascara/utn.h
+
+1506332413 source:/home/pablo/Escritorio/TP_2_Cascara/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
